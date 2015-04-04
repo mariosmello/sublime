@@ -1,0 +1,28 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"Function Name Display",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"Phpcs",
+		"PhpDoc",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"TrailingSpaces",
+		"WakaTime",
+		"Wild Cherry"
+	]
+}
