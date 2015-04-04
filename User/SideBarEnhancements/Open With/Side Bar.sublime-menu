@@ -1,0 +1,23 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[
+
+			{
+				"caption": "Adobe Photoshop",
+				"id": "side-bar-files-open-with-photoshop",
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Adobe Photoshop CS6.app",
+									"extensions":"psd|png|jpg|jpeg",
+									"args":[]
+								},
+				"open_automatically" : false
+			},
+
+			{"caption":"-"}
+
+		]
+	}
+]
