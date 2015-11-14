@@ -1,10 +1,10 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Wild Cherry/wild-cherry.tmTheme",
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
 	"font_face": "monaco",
-	"font_size": 15,
+	"font_size": 20,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":

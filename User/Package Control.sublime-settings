@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -9,12 +10,14 @@
 		"Color Highlighter",
 		"ColorPicker",
 		"DocBlockr",
+		"Dracula Color Scheme",
 		"Function Name Display",
 		"Git",
 		"GitGutter",
 		"Package Control",
 		"Phpcs",
 		"PhpDoc",
+		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter-csslint",
@@ -22,7 +25,6 @@
 		"SublimeLinter-json",
 		"SublimeLinter-php",
 		"TrailingSpaces",
-		"WakaTime",
 		"Wild Cherry"
 	]
 }
